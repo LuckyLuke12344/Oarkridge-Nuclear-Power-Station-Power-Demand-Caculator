@@ -12,4 +12,8 @@ while True:
         turbine_power = calculate_turbine_power(power_demand)
         print("Turbine needed:", turbine_power)
     except ValueError:
+
         print("Invalid input. Please enter a number or 'q' to quit.")
+MADE BY KIENROBERT12
+MIT License
+Oarkidge Nuclear Power Station From Koyot Digital
